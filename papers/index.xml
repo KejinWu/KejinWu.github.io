@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Papers on Kejin Wu</title>
-    <link>http://localhost:1313/papers/</link>
+    <link>https://kejinWu.github.io/papers/</link>
     <description>Recent content in Papers on Kejin Wu</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kejinWu.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap prediction inference of nonlinear autoregressive models</title>
-      <link>http://localhost:1313/papers/paper4/index4/</link>
+      <link>https://kejinWu.github.io/papers/paper4/index4/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper4/index4/</guid>
+      <guid>https://kejinWu.github.io/papers/paper4/index4/</guid>
       <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions.</description>
     </item>
     <item>
       <title>Multi-Step-Ahead prediction intervals for nonparametric autoregressions via Bootstrap: consistency, debiasing, and pertinence</title>
-      <link>http://localhost:1313/papers/paper3/index3/</link>
+      <link>https://kejinWu.github.io/papers/paper3/index3/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper3/index3/</guid>
+      <guid>https://kejinWu.github.io/papers/paper3/index3/</guid>
       <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions.</description>
     </item>
     <item>
       <title>A model-free approach to do long-term volatility forecasting and its variants</title>
-      <link>http://localhost:1313/papers/paper2/index2/</link>
+      <link>https://kejinWu.github.io/papers/paper2/index2/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper2/index2/</guid>
+      <guid>https://kejinWu.github.io/papers/paper2/index2/</guid>
       <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions.</description>
     </item>
     <item>
       <title>Model-free time-aggregated predictions for econometric datasets</title>
-      <link>http://localhost:1313/papers/paper1/index1/</link>
+      <link>https://kejinWu.github.io/papers/paper1/index1/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/index1/</guid>
+      <guid>https://kejinWu.github.io/papers/paper1/index1/</guid>
       <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions. (This is my first paper with Professor Karmakar. Thanks for his guidance!)</description>
     </item>
   </channel>
