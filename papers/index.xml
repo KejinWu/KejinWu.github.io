@@ -10,9 +10,9 @@
     <atom:link href="https://kejinWu.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(Working) Scalable Subsampling Inference for Deep Neural Networks</title>
-      <link>https://kejinWu.github.io/papers/scalabless/scalabless/</link>
+      <link>https://kejinWu.github.io/papers/paper5/index5/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/scalabless/scalabless/</guid>
+      <guid>https://kejinWu.github.io/papers/paper5/index5/</guid>
       <description>One paper about subsampling</description>
     </item>
     <item>
