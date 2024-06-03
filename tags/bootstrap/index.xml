@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bootstrap on Kejin Wu</title>
-    <link>https://kejinWu.github.io/tags/bootstrap/</link>
+    <link>http://localhost:1313/tags/bootstrap/</link>
     <description>Recent content in Bootstrap on Kejin Wu</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kejinWu.github.io/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap prediction inference of nonlinear autoregressive models</title>
-      <link>https://kejinWu.github.io/papers/paper4/index4/</link>
+      <link>http://localhost:1313/papers/paper4/index4/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper4/index4/</guid>
-      <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions.</description>
+      <guid>http://localhost:1313/papers/paper4/index4/</guid>
+      <description>We construct bootstrap prediction intervals in the multi-step ahead prediction problem with parametric model estimator; in particular, we develop an asymptotically valid quantile prediction interval as well as a pertinent prediction interval for future values. To correct the undercoverage of prediction intervals with finite samples, we further employ predictive&amp;mdash;as opposed to fitted&amp;mdash;residuals in the bootstrap process.</description>
     </item>
     <item>
       <title>Multi-Step-Ahead prediction intervals for nonparametric autoregressions via Bootstrap: consistency, debiasing, and pertinence</title>
-      <link>https://kejinWu.github.io/papers/paper3/index3/</link>
+      <link>http://localhost:1313/papers/paper3/index3/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper3/index3/</guid>
-      <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions.</description>
+      <guid>http://localhost:1313/papers/paper3/index3/</guid>
+      <description>We consider a forward bootstrap approach with non-parametric model estimator to resolve the difficulty on predicting multi-step ahead time series data. We construct a quantile prediction interval that is asymptotically valid. Moreover, after taking a debiasing technique, we can build pertinent prediction intervals in which the estimation variability is captured. (This is my first paper with my advisor Professor Politis. Thanks for his guidance!)</description>
     </item>
   </channel>
 </rss>

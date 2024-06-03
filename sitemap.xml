@@ -2,88 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kejinWu.github.io/tags/bootstrap/</loc>
+    <loc>http://localhost:1313/papers/scalabless/scalabless/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/deep-neural-networks/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prediction/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/subsampling/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bootstrap/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/papers/paper4/index4/</loc>
+    <loc>http://localhost:1313/papers/paper4/index4/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/</loc>
+    <loc>http://localhost:1313/tags/time-series/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/multi-step-ahead-prediction/</loc>
+    <loc>http://localhost:1313/teaching/course1/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/papers/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/undergraduate-course-teaching/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/time-series/</loc>
+    <loc>http://localhost:1313/previous-teaching/coursemath11fa2023/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/teaching/course1/</loc>
+    <loc>http://localhost:1313/previous-teaching/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/teaching/</loc>
+    <loc>http://localhost:1313/papers/paper3/index3/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/undergraduate-course-teaching/</loc>
+    <loc>http://localhost:1313/tags/nonparametric-estimation/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/previous-teaching/coursemath11fa2023/</loc>
+    <loc>http://localhost:1313/teaching/course2/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/previous-teaching/</loc>
+    <loc>http://localhost:1313/news/advancetocandidacy/indexadvance/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/papers/paper3/index3/</loc>
+    <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/nonparametric-estimation/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/teaching/course2/</loc>
+    <loc>http://localhost:1313/papers/paper2/index2/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/news/advancetocandidacy/indexadvance/</loc>
+    <loc>http://localhost:1313/tags/garch-model/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/news/</loc>
+    <loc>http://localhost:1313/tags/model-free-prediction/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/news/</loc>
+    <loc>http://localhost:1313/tags/volatility-forecasting/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/papers/paper2/index2/</loc>
+    <loc>http://localhost:1313/news/libbyresearchaward/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/garch-model/</loc>
+    <loc>http://localhost:1313/papers/paper1/index1/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/model-free-prediction/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/graduate-course-teaching/</loc>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/volatility-forecasting/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/referee/</loc>
   </url><url>
-    <loc>https://kejinWu.github.io/news/libbyresearchaward/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/services/data1/</loc>
   </url><url>
-    <loc>https://kejinWu.github.io/papers/paper1/index1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/services/</loc>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/graduate-course-teaching/</loc>
+    <loc>http://localhost:1313/teaching/course3/</loc>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/referee/</loc>
-  </url><url>
-    <loc>https://kejinWu.github.io/services/data1/</loc>
-  </url><url>
-    <loc>https://kejinWu.github.io/services/</loc>
-  </url><url>
-    <loc>https://kejinWu.github.io/teaching/course3/</loc>
-  </url><url>
-    <loc>https://kejinWu.github.io/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url>
 </urlset>

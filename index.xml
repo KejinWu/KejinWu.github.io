@@ -2,87 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kejin Wu</title>
-    <link>https://kejinWu.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Kejin Wu</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kejinWu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Working) Scalable Subsampling Inference for Deep Neural Networks</title>
+      <link>http://localhost:1313/papers/scalabless/scalabless/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/scalabless/scalabless/</guid>
+      <description>One paper about subsampling</description>
+    </item>
     <item>
       <title>Bootstrap prediction inference of nonlinear autoregressive models</title>
-      <link>https://kejinWu.github.io/papers/paper4/index4/</link>
+      <link>http://localhost:1313/papers/paper4/index4/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper4/index4/</guid>
-      <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions.</description>
+      <guid>http://localhost:1313/papers/paper4/index4/</guid>
+      <description>We construct bootstrap prediction intervals in the multi-step ahead prediction problem with parametric model estimator; in particular, we develop an asymptotically valid quantile prediction interval as well as a pertinent prediction interval for future values. To correct the undercoverage of prediction intervals with finite samples, we further employ predictive&amp;mdash;as opposed to fitted&amp;mdash;residuals in the bootstrap process.</description>
     </item>
     <item>
       <title>MATH 11 Calculus-Based Introductory Probability and Statistics UCSD Spring2024 (Associate Instructor)</title>
-      <link>https://kejinWu.github.io/teaching/course1/</link>
+      <link>http://localhost:1313/teaching/course1/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/teaching/course1/</guid>
+      <guid>http://localhost:1313/teaching/course1/</guid>
       <description>These are undergraduate teaching experience at UCSD.</description>
     </item>
     <item>
       <title>MATH 11 Calculus-Based Introductory Probability and Statistics UCSD Fall2023 (Associate Instructor)</title>
-      <link>https://kejinWu.github.io/previous-teaching/coursemath11fa2023/</link>
+      <link>http://localhost:1313/previous-teaching/coursemath11fa2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/previous-teaching/coursemath11fa2023/</guid>
+      <guid>http://localhost:1313/previous-teaching/coursemath11fa2023/</guid>
       <description>These are undergraduate teaching experience at UCSD.</description>
     </item>
     <item>
       <title>Multi-Step-Ahead prediction intervals for nonparametric autoregressions via Bootstrap: consistency, debiasing, and pertinence</title>
-      <link>https://kejinWu.github.io/papers/paper3/index3/</link>
+      <link>http://localhost:1313/papers/paper3/index3/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper3/index3/</guid>
-      <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions.</description>
+      <guid>http://localhost:1313/papers/paper3/index3/</guid>
+      <description>We consider a forward bootstrap approach with non-parametric model estimator to resolve the difficulty on predicting multi-step ahead time series data. We construct a quantile prediction interval that is asymptotically valid. Moreover, after taking a debiasing technique, we can build pertinent prediction intervals in which the estimation variability is captured. (This is my first paper with my advisor Professor Politis. Thanks for his guidance!)</description>
     </item>
     <item>
       <title>MATH 10A Calculus I UCSD Summer2023 (Associate Instructor) </title>
-      <link>https://kejinWu.github.io/teaching/course2/</link>
+      <link>http://localhost:1313/teaching/course2/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/teaching/course2/</guid>
+      <guid>http://localhost:1313/teaching/course2/</guid>
       <description>These are undergraduate teaching experience at UCSD.</description>
     </item>
     <item>
       <title>Advance to Candidacy</title>
-      <link>https://kejinWu.github.io/news/advancetocandidacy/indexadvance/</link>
+      <link>http://localhost:1313/news/advancetocandidacy/indexadvance/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/news/advancetocandidacy/indexadvance/</guid>
+      <guid>http://localhost:1313/news/advancetocandidacy/indexadvance/</guid>
       <description>These are news for me at UCSD.</description>
     </item>
     <item>
       <title>A model-free approach to do long-term volatility forecasting and its variants</title>
-      <link>https://kejinWu.github.io/papers/paper2/index2/</link>
+      <link>http://localhost:1313/papers/paper2/index2/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper2/index2/</guid>
-      <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions.</description>
+      <guid>http://localhost:1313/papers/paper2/index2/</guid>
+      <description>This paper proposes a new NoVaS prediction method based on the GARCH model. Compared to the existing NoVaS method which is motivated by ARCH model. We show the our new method is more robust and accurate.</description>
     </item>
     <item>
       <title>Receive Richard Libby Graduate Research Award</title>
-      <link>https://kejinWu.github.io/news/libbyresearchaward/</link>
+      <link>http://localhost:1313/news/libbyresearchaward/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/news/libbyresearchaward/</guid>
+      <guid>http://localhost:1313/news/libbyresearchaward/</guid>
       <description>These are news for me at UCSD.</description>
     </item>
     <item>
       <title>Model-free time-aggregated predictions for econometric datasets</title>
-      <link>https://kejinWu.github.io/papers/paper1/index1/</link>
+      <link>http://localhost:1313/papers/paper1/index1/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper1/index1/</guid>
+      <guid>http://localhost:1313/papers/paper1/index1/</guid>
       <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions. (This is my first paper with Professor Karmakar. Thanks for his guidance!)</description>
     </item>
     <item>
       <title>Referee for the Journals</title>
-      <link>https://kejinWu.github.io/services/data1/</link>
+      <link>http://localhost:1313/services/data1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/services/data1/</guid>
+      <guid>http://localhost:1313/services/data1/</guid>
       <description>A list of journals I have been a referee</description>
     </item>
     <item>
       <title>Teaching Assistant at UCSD</title>
-      <link>https://kejinWu.github.io/teaching/course3/</link>
+      <link>http://localhost:1313/teaching/course3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/teaching/course3/</guid>
+      <guid>http://localhost:1313/teaching/course3/</guid>
       <description>These are undergraduate teaching experience at UCSD as TA.</description>
     </item>
   </channel>

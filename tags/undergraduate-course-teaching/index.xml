@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Undergraduate Course Teaching on Kejin Wu</title>
-    <link>https://kejinWu.github.io/tags/undergraduate-course-teaching/</link>
+    <link>http://localhost:1313/tags/undergraduate-course-teaching/</link>
     <description>Recent content in Undergraduate Course Teaching on Kejin Wu</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kejinWu.github.io/tags/undergraduate-course-teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/undergraduate-course-teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MATH 11 Calculus-Based Introductory Probability and Statistics UCSD Spring2024 (Associate Instructor)</title>
-      <link>https://kejinWu.github.io/teaching/course1/</link>
+      <link>http://localhost:1313/teaching/course1/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/teaching/course1/</guid>
+      <guid>http://localhost:1313/teaching/course1/</guid>
       <description>These are undergraduate teaching experience at UCSD.</description>
     </item>
     <item>
       <title>MATH 11 Calculus-Based Introductory Probability and Statistics UCSD Fall2023 (Associate Instructor)</title>
-      <link>https://kejinWu.github.io/previous-teaching/coursemath11fa2023/</link>
+      <link>http://localhost:1313/previous-teaching/coursemath11fa2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/previous-teaching/coursemath11fa2023/</guid>
+      <guid>http://localhost:1313/previous-teaching/coursemath11fa2023/</guid>
       <description>These are undergraduate teaching experience at UCSD.</description>
     </item>
     <item>
       <title>MATH 10A Calculus I UCSD Summer2023 (Associate Instructor) </title>
-      <link>https://kejinWu.github.io/teaching/course2/</link>
+      <link>http://localhost:1313/teaching/course2/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/teaching/course2/</guid>
+      <guid>http://localhost:1313/teaching/course2/</guid>
       <description>These are undergraduate teaching experience at UCSD.</description>
     </item>
     <item>
       <title>Teaching Assistant at UCSD</title>
-      <link>https://kejinWu.github.io/teaching/course3/</link>
+      <link>http://localhost:1313/teaching/course3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/teaching/course3/</guid>
+      <guid>http://localhost:1313/teaching/course3/</guid>
       <description>These are undergraduate teaching experience at UCSD as TA.</description>
     </item>
   </channel>
