@@ -10,16 +10,16 @@
     <atom:link href="https://kejinWu.github.io/tags/garch-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A model-free approach to do long-term volatility forecasting and its variants</title>
-      <link>https://kejinWu.github.io/papers/paper2/index2/</link>
+      <link>https://kejinWu.github.io/papers/index2/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper2/index2/</guid>
+      <guid>https://kejinWu.github.io/papers/index2/</guid>
       <description>This paper proposes a new NoVaS prediction method based on the GARCH model. Compared to the existing NoVaS method which is motivated by ARCH model. We show the our new method is more robust and accurate.</description>
     </item>
     <item>
       <title>Model-free time-aggregated predictions for econometric datasets</title>
-      <link>https://kejinWu.github.io/papers/paper1/index1/</link>
+      <link>https://kejinWu.github.io/papers/index1/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper1/index1/</guid>
+      <guid>https://kejinWu.github.io/papers/index1/</guid>
       <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions. (This is my first paper with Professor Karmakar. Thanks for his guidance!)</description>
     </item>
   </channel>

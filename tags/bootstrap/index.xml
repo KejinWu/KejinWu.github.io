@@ -10,16 +10,16 @@
     <atom:link href="https://kejinWu.github.io/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap prediction inference of nonlinear autoregressive models</title>
-      <link>https://kejinWu.github.io/papers/paper4/index4/</link>
+      <link>https://kejinWu.github.io/papers/index4/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper4/index4/</guid>
+      <guid>https://kejinWu.github.io/papers/index4/</guid>
       <description>We construct bootstrap prediction intervals in the multi-step ahead prediction problem with parametric model estimator; in particular, we develop an asymptotically valid quantile prediction interval as well as a pertinent prediction interval for future values. To correct the undercoverage of prediction intervals with finite samples, we further employ predictive&amp;mdash;as opposed to fitted&amp;mdash;residuals in the bootstrap process.</description>
     </item>
     <item>
       <title>Multi-Step-Ahead prediction intervals for nonparametric autoregressions via Bootstrap: consistency, debiasing, and pertinence</title>
-      <link>https://kejinWu.github.io/papers/paper3/index3/</link>
+      <link>https://kejinWu.github.io/papers/index3/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/paper3/index3/</guid>
+      <guid>https://kejinWu.github.io/papers/index3/</guid>
       <description>We consider a forward bootstrap approach with non-parametric model estimator to resolve the difficulty on predicting multi-step ahead time series data. We construct a quantile prediction interval that is asymptotically valid. Moreover, after taking a debiasing technique, we can build pertinent prediction intervals in which the estimation variability is captured. (This is my first paper with my advisor Professor Politis. Thanks for his guidance!)</description>
     </item>
   </channel>
