@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kejinWu.github.io/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/tags/news/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/news/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/tags/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/news/neurips2024/neurips2024/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kejinWu.github.io/papers/dlmf/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/tags/deep-neural-networks/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/tags/model-free-method/</loc>
@@ -18,9 +30,6 @@
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/tags/prediction/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/tags/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/papers/ssdnn/</loc>
@@ -63,12 +72,6 @@
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/news/advancetocandidacy/indexadvance/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/tags/news/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/news/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/papers/index2/</loc>

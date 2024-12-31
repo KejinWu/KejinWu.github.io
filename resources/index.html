@@ -183,6 +183,21 @@ as a TA
  (credit to the help from Sheng Qiao).</li>
 </ul>
 </li>
+<li><strong>UCSD Math 181B</strong> (Introduction to Mathematical Statistics II)<br>
+as a TA
+<ul>
+<li>Discussion work sheets (serve for a quarter-long course):  <a href="MATH_181B_DI_1.pdf">DI1</a>
+, <a href="MATH_181B_DI_2.pdf">DI2</a>
+, <a href="MATH_181B_DI_3.pdf">DI3</a>
+, <a href="MATH_181B_DI_4.pdf">DI4</a>
+, <a href="MATH_181B_DI_5.pdf">DI5</a>
+, <a href="MATH_181B_DI_6.pdf">DI6</a>
+, <a href="MATH_181B_DI_7.pdf">DI7</a>
+, <a href="MATH_181B_DI_8.pdf">DI8</a>
+, <a href="MATH_181B_DI_9.pdf">DI9</a>
+ (these review sheets are based on the textbook <em>An Introduction to Mathematical Statistics and Its Applications</em>)</li>
+</ul>
+</li>
 <li><strong>UCSD Math 183</strong> (Statistical Methods)<br>
 as a TA
 <ul>
@@ -213,7 +228,36 @@ as a TA
 </div>
     </main>
     
+
 <footer class="footer">
+    <p id="footer-sentence"></p> 
+
+    <body>
+        
+        <p id="randomText"></p>
+    
+        <script>
+            
+            const texts = [
+                "人生天地间，忽如远行客",
+                "知行合一",
+                "长风破浪会有时，直挂云帆济沧海！",
+                "Carpe diem",
+                "在世人中间不愿渴死的人，必须学会从一切杯子里痛饮。在世人中间要保持清洁的人，必须懂得用脏水也可以洗身",
+                "山河不足重，重在遇知己",
+                "寄蜉蝣于天地，渺沧海之一粟",
+                "道阻且长，行则将至",
+                "相信相信的力量"
+            ];
+            
+            
+            const randomText = texts[Math.floor(Math.random() * texts.length)];
+            
+            
+            document.getElementById("randomText").innerText = randomText;
+        </script>
+
+    </body>
     &copy; 2024 Kejin Wu
     <span>
     &middot;  Powered by 

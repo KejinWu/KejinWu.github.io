@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kejinWu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>News</title>
+      <link>https://kejinWu.github.io/tags/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Deep Neural Networks</title>
       <link>https://kejinWu.github.io/tags/deep-neural-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,13 +69,6 @@
       <link>https://kejinWu.github.io/tags/nonparametric-estimation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kejinWu.github.io/tags/nonparametric-estimation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>https://kejinWu.github.io/tags/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/tags/news/</guid>
       <description></description>
     </item>
     <item>

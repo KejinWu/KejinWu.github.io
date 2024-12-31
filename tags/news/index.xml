@@ -9,6 +9,14 @@
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kejinWu.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Workshop Statistical Frontiers in LLMs and Foundation Models NeurIPS 2024</title>
+      <link>https://kejinWu.github.io/news/neurips2024/neurips2024/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/news/neurips2024/neurips2024/</guid>
+      <description>I am glad to present two posters at workshop on Statistical Frontiers in LLMs and Foundation Models. (NeurIPS 2024 in Vancouver, British Columbia, Canada)
+Poster: Deep Limit Model Free Prediction Poster: Scalable Subsampling Inference for Deep Neural Networks </description>
+    </item>
+    <item>
       <title>Advance to Candidacy</title>
       <link>https://kejinWu.github.io/news/advancetocandidacy/indexadvance/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>

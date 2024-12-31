@@ -161,7 +161,7 @@
         <a href="https://kejinWu.github.io/tags/model-free-prediction/">Model-free prediction <sup><strong><sup>2</sup></strong></sup> </a>
     </li>
     <li>
-        <a href="https://kejinWu.github.io/tags/news/">News <sup><strong><sup>2</sup></strong></sup> </a>
+        <a href="https://kejinWu.github.io/tags/news/">News <sup><strong><sup>3</sup></strong></sup> </a>
     </li>
     <li>
         <a href="https://kejinWu.github.io/tags/nonparametric-estimation/">Nonparametric estimation <sup><strong><sup>1</sup></strong></sup> </a>
@@ -187,7 +187,36 @@
 </ul>
     </main>
     
+
 <footer class="footer">
+    <p id="footer-sentence"></p> 
+
+    <body>
+        
+        <p id="randomText"></p>
+    
+        <script>
+            
+            const texts = [
+                "人生天地间，忽如远行客",
+                "知行合一",
+                "长风破浪会有时，直挂云帆济沧海！",
+                "Carpe diem",
+                "在世人中间不愿渴死的人，必须学会从一切杯子里痛饮。在世人中间要保持清洁的人，必须懂得用脏水也可以洗身",
+                "山河不足重，重在遇知己",
+                "寄蜉蝣于天地，渺沧海之一粟",
+                "道阻且长，行则将至",
+                "相信相信的力量"
+            ];
+            
+            
+            const randomText = texts[Math.floor(Math.random() * texts.length)];
+            
+            
+            document.getElementById("randomText").innerText = randomText;
+        </script>
+
+    </body>
     &copy; 2024 Kejin Wu
     <span>
     &middot;  Powered by 
