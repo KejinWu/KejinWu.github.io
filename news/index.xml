@@ -6,8 +6,23 @@
     <description>Recent content in News on Kejin Wu</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kejinWu.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Academia Job, Assistant Professor at Loyola University Chicago</title>
+      <link>https://kejinWu.github.io/news/first-academia-job/firstjob/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/news/first-academia-job/firstjob/</guid>
+      <description>I am glad to join the Department of Mathematics and Statistics, Loyola University Chicago, as an Assistant Professor in Aug. 2025.</description>
+    </item>
+    <item>
+      <title>Passed The Defense Talk of My Ph.D.</title>
+      <link>https://kejinWu.github.io/news/phd-defense-passed/phd-got/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/news/phd-defense-passed/phd-got/</guid>
+      <description>I am glad to pass my defense talk of my Ph.D at University of California San Diego.
+Thanks to my parents. Thanks to my advisor Dimitris Politis and my committee members Danna Zhang, Ery Arias-Castro and Yian Ma. Thanks to all my friends. Defense Talk Slides </description>
+    </item>
     <item>
       <title>Workshop Statistical Frontiers in LLMs and Foundation Models NeurIPS 2024</title>
       <link>https://kejinWu.github.io/news/neurips2024/neurips2024/</link>

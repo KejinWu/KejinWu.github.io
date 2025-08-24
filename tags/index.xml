@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Kejin Wu</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kejinWu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
@@ -16,17 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>Deep Neural Networks</title>
-      <link>https://kejinWu.github.io/tags/deep-neural-networks/</link>
+      <title>Model-Free Prediction</title>
+      <link>https://kejinWu.github.io/tags/model-free-prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/tags/deep-neural-networks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Model-Free Method</title>
-      <link>https://kejinWu.github.io/tags/model-free-method/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/tags/model-free-method/</guid>
+      <guid>https://kejinWu.github.io/tags/model-free-prediction/</guid>
       <description></description>
     </item>
     <item>
@@ -37,20 +30,6 @@
       <description></description>
     </item>
     <item>
-      <title>Subsampling</title>
-      <link>https://kejinWu.github.io/tags/subsampling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/tags/subsampling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bootstrap</title>
-      <link>https://kejinWu.github.io/tags/bootstrap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Time Series</title>
       <link>https://kejinWu.github.io/tags/time-series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -58,10 +37,31 @@
       <description></description>
     </item>
     <item>
-      <title>Undergraduate Course Teaching</title>
-      <link>https://kejinWu.github.io/tags/undergraduate-course-teaching/</link>
+      <title>Deep Neural Networks</title>
+      <link>https://kejinWu.github.io/tags/deep-neural-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/tags/undergraduate-course-teaching/</guid>
+      <guid>https://kejinWu.github.io/tags/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Subsampling</title>
+      <link>https://kejinWu.github.io/tags/subsampling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/tags/subsampling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model-Free Method</title>
+      <link>https://kejinWu.github.io/tags/model-free-method/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/tags/model-free-method/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bootstrap</title>
+      <link>https://kejinWu.github.io/tags/bootstrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/tags/bootstrap/</guid>
       <description></description>
     </item>
     <item>
@@ -79,31 +79,10 @@
       <description></description>
     </item>
     <item>
-      <title>Model-Free Prediction</title>
-      <link>https://kejinWu.github.io/tags/model-free-prediction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/tags/model-free-prediction/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Volatility Forecasting</title>
       <link>https://kejinWu.github.io/tags/volatility-forecasting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kejinWu.github.io/tags/volatility-forecasting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Graduate Course Teaching</title>
-      <link>https://kejinWu.github.io/tags/graduate-course-teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/tags/graduate-course-teaching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Referee</title>
-      <link>https://kejinWu.github.io/tags/referee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/tags/referee/</guid>
       <description></description>
     </item>
   </channel>

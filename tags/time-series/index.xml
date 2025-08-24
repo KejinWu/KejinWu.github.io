@@ -6,8 +6,15 @@
     <description>Recent content in Time Series on Kejin Wu</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kejinWu.github.io/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GARCHX-NoVaS: A Bootstrap-Based Approach of Forecasting for GARCHX Models</title>
+      <link>https://kejinWu.github.io/papers/jof/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/papers/jof/</guid>
+      <description>This paper proposes a new NoVaS prediction method based on the GARCHX model. Also, interesting real-data applications are given to test this new method and standard techniques.</description>
+    </item>
     <item>
       <title>Bootstrap prediction inference of nonlinear autoregressive models</title>
       <link>https://kejinWu.github.io/papers/index4/</link>

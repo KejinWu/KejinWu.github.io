@@ -3,16 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kejinWu.github.io/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/news/first-academia-job/firstjob/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/tags/news/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/news/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/tags/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/papers/jof/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/tags/model-free-prediction/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/papers/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/tags/prediction/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/tags/time-series/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/news/phd-defense-passed/phd-got/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/tags/deep-neural-networks/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/papers/ssdnn/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kejinWu.github.io/tags/subsampling/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/news/neurips2024/neurips2024/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
@@ -20,22 +50,7 @@
     <loc>https://kejinWu.github.io/papers/dlmf/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/deep-neural-networks/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kejinWu.github.io/tags/model-free-method/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/papers/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/tags/prediction/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/papers/ssdnn/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/tags/subsampling/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/tags/bootstrap/</loc>
@@ -44,31 +59,10 @@
     <loc>https://kejinWu.github.io/papers/index4/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/time-series/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/teaching/course1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/teaching/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/tags/undergraduate-course-teaching/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/previous-teaching/coursemath11fa2023/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/previous-teaching/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kejinWu.github.io/papers/index3/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/tags/nonparametric-estimation/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/teaching/course2/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/news/advancetocandidacy/indexadvance/</loc>
@@ -78,9 +72,6 @@
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/tags/garch-model/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kejinWu.github.io/tags/model-free-prediction/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kejinWu.github.io/tags/volatility-forecasting/</loc>
@@ -94,17 +85,11 @@
   </url><url>
     <loc>https://kejinWu.github.io/conferences/</loc>
   </url><url>
-    <loc>https://kejinWu.github.io/tags/graduate-course-teaching/</loc>
-  </url><url>
-    <loc>https://kejinWu.github.io/tags/referee/</loc>
-  </url><url>
-    <loc>https://kejinWu.github.io/services/data1/</loc>
-  </url><url>
     <loc>https://kejinWu.github.io/resources/</loc>
   </url><url>
     <loc>https://kejinWu.github.io/services/</loc>
   </url><url>
-    <loc>https://kejinWu.github.io/teaching/course3/</loc>
+    <loc>https://kejinWu.github.io/teaching/</loc>
   </url><url>
     <loc>https://kejinWu.github.io/archive/</loc>
   </url>

@@ -6,8 +6,37 @@
     <description>Recent content on Kejin Wu</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kejinWu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Academia Job, Assistant Professor at Loyola University Chicago</title>
+      <link>https://kejinWu.github.io/news/first-academia-job/firstjob/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/news/first-academia-job/firstjob/</guid>
+      <description>I am glad to join the Department of Mathematics and Statistics, Loyola University Chicago, as an Assistant Professor in Aug. 2025.</description>
+    </item>
+    <item>
+      <title>GARCHX-NoVaS: A Bootstrap-Based Approach of Forecasting for GARCHX Models</title>
+      <link>https://kejinWu.github.io/papers/jof/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/papers/jof/</guid>
+      <description>This paper proposes a new NoVaS prediction method based on the GARCHX model. Also, interesting real-data applications are given to test this new method and standard techniques.</description>
+    </item>
+    <item>
+      <title>Passed The Defense Talk of My Ph.D.</title>
+      <link>https://kejinWu.github.io/news/phd-defense-passed/phd-got/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/news/phd-defense-passed/phd-got/</guid>
+      <description>I am glad to pass my defense talk of my Ph.D at University of California San Diego.
+Thanks to my parents. Thanks to my advisor Dimitris Politis and my committee members Danna Zhang, Ery Arias-Castro and Yian Ma. Thanks to all my friends. Defense Talk Slides </description>
+    </item>
+    <item>
+      <title>Scalable Subsampling Inference for Deep Neural Networks ACM/IMS Journal of Data Science</title>
+      <link>https://kejinWu.github.io/papers/ssdnn/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://kejinWu.github.io/papers/ssdnn/</guid>
+      <description>One paper about subsampling.</description>
+    </item>
     <item>
       <title>Workshop Statistical Frontiers in LLMs and Foundation Models NeurIPS 2024</title>
       <link>https://kejinWu.github.io/news/neurips2024/neurips2024/</link>
@@ -24,13 +53,6 @@ Poster: Deep Limit Model Free Prediction Poster: Scalable Subsampling Inference 
       <description>One paper about a Model-free prediction in the regression context with DNN (simple and interesting).</description>
     </item>
     <item>
-      <title>Scalable Subsampling Inference for Deep Neural Networks (Working)</title>
-      <link>https://kejinWu.github.io/papers/ssdnn/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/papers/ssdnn/</guid>
-      <description>One paper about subsampling.</description>
-    </item>
-    <item>
       <title>Bootstrap prediction inference of nonlinear autoregressive models</title>
       <link>https://kejinWu.github.io/papers/index4/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
@@ -38,32 +60,11 @@ Poster: Deep Limit Model Free Prediction Poster: Scalable Subsampling Inference 
       <description>We construct bootstrap prediction intervals in the multi-step ahead prediction problem with parametric model estimator; in particular, we develop an asymptotically valid quantile prediction interval as well as a pertinent prediction interval for future values. To correct the undercoverage of prediction intervals with finite samples, we further employ predictive&amp;mdash;as opposed to fitted&amp;mdash;residuals in the bootstrap process.</description>
     </item>
     <item>
-      <title>MATH 11 Calculus-Based Introductory Probability and Statistics UCSD Spring2024 (Associate Instructor)</title>
-      <link>https://kejinWu.github.io/teaching/course1/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/teaching/course1/</guid>
-      <description>These are undergraduate teaching experience at UCSD.</description>
-    </item>
-    <item>
-      <title>MATH 11 Calculus-Based Introductory Probability and Statistics UCSD Fall2023 (Associate Instructor)</title>
-      <link>https://kejinWu.github.io/previous-teaching/coursemath11fa2023/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/previous-teaching/coursemath11fa2023/</guid>
-      <description>These are undergraduate teaching experience at UCSD.</description>
-    </item>
-    <item>
       <title>Multi-Step-Ahead prediction intervals for nonparametric autoregressions via Bootstrap: consistency, debiasing, and pertinence</title>
       <link>https://kejinWu.github.io/papers/index3/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://kejinWu.github.io/papers/index3/</guid>
       <description>We consider a forward bootstrap approach with non-parametric model estimator to resolve the difficulty on predicting multi-step ahead time series data. We construct a quantile prediction interval that is asymptotically valid. Moreover, after taking a debiasing technique, we can build pertinent prediction intervals in which the estimation variability is captured. (This is my first paper with my advisor Professor Politis. Thanks for his guidance!)</description>
-    </item>
-    <item>
-      <title>MATH 10A Calculus I UCSD Summer2023 (Associate Instructor) </title>
-      <link>https://kejinWu.github.io/teaching/course2/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/teaching/course2/</guid>
-      <description>These are undergraduate teaching experience at UCSD.</description>
     </item>
     <item>
       <title>Advance to Candidacy</title>
@@ -92,20 +93,6 @@ Poster: Deep Limit Model Free Prediction Poster: Scalable Subsampling Inference 
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://kejinWu.github.io/papers/index1/</guid>
       <description>This paper applies a so-called Molde-free prediction method&amp;mdash;NoVaS&amp;mdash;to do volatility forecasting of financial series. We develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, we verify its great performance on long-term time aggregated predictions. (This is my first paper with Professor Karmakar. Thanks for his guidance!)</description>
-    </item>
-    <item>
-      <title>Referee for the Journals</title>
-      <link>https://kejinWu.github.io/services/data1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/services/data1/</guid>
-      <description>A list of journals I have been a referee</description>
-    </item>
-    <item>
-      <title>Teaching Assistant at UCSD</title>
-      <link>https://kejinWu.github.io/teaching/course3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kejinWu.github.io/teaching/course3/</guid>
-      <description>These are undergraduate teaching experience at UCSD as TA.</description>
     </item>
   </channel>
 </rss>
