@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Kejin Wu</title>
   <subtitle></subtitle>
-  <updated>2026-05-01T02:04:51-05:00</updated>
+  <updated>2026-05-31T13:14:38-05:00</updated>
   <author>
     <name>Kejin Wu</name>
     <uri>http://localhost:4000/</uri>
@@ -20,14 +20,36 @@
 
   
   <entry>
+    <title>Invited talk at New England Statistics Symposium (NESS) 2026</title>
+    <link href="http://localhost:4000/posts/NESS2026/" rel="alternate" type="text/html" title="Invited talk at New England Statistics Symposium (NESS) 2026" />
+    <published>2026-05-28T00:00:00-05:00</published>
+  
+    <updated>2026-05-28T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/NESS2026/</id>
+    <content type="text/html" src="http://localhost:4000/posts/NESS2026/" />
+    <author>
+      <name>Kejin Wu</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to present an Invited Talk entitled Distributional Conformal Prediction for Markov Process at the New England Statistical Society (NESS) 2026.  Thanks for the invitation from Professor Yao Zheng.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Receive IMS New Researcher Travel Award</title>
-    <link href="http://localhost:4000/posts/IMSNewResearcherTravelAward/" rel="alternate" type="text/html" title="Receive IMS New Researcher Travel Award" />
+    <link href="http://localhost:4000/posts/IMSNewResearcherTravelAward-copy/" rel="alternate" type="text/html" title="Receive IMS New Researcher Travel Award" />
     <published>2026-03-12T00:00:00-05:00</published>
   
     <updated>2026-03-12T00:00:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/IMSNewResearcherTravelAward/</id>
-    <content type="text/html" src="http://localhost:4000/posts/IMSNewResearcherTravelAward/" />
+    <id>http://localhost:4000/posts/IMSNewResearcherTravelAward-copy/</id>
+    <content type="text/html" src="http://localhost:4000/posts/IMSNewResearcherTravelAward-copy/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -64,8 +86,8 @@
 
   
   <entry>
-    <title>Conference: IMS-ICSDS 2025</title>
-    <link href="http://localhost:4000/posts/ICSDS/" rel="alternate" type="text/html" title="Conference: IMS-ICSDS 2025" />
+    <title>Contributed talk at conference IMS-ICSDS 2025</title>
+    <link href="http://localhost:4000/posts/ICSDS/" rel="alternate" type="text/html" title="Contributed talk at conference IMS-ICSDS 2025" />
     <published>2025-12-16T00:00:00-06:00</published>
   
     <updated>2025-12-16T00:00:00-06:00</updated>
@@ -86,8 +108,8 @@
 
   
   <entry>
-    <title>Conference: NBER NSF Time Series 2025 </title>
-    <link href="http://localhost:4000/posts/NBERNSF/" rel="alternate" type="text/html" title="Conference: NBER NSF Time Series 2025 " />
+    <title>Co-author invited talk and poster at conference NBER NSF Time Series 2025 </title>
+    <link href="http://localhost:4000/posts/NBERNSF/" rel="alternate" type="text/html" title="Co-author invited talk and poster at conference NBER NSF Time Series 2025 " />
     <published>2025-09-19T00:00:00-05:00</published>
   
     <updated>2025-09-19T00:00:00-05:00</updated>
@@ -103,28 +125,6 @@
   
 
   <summary>I am glad to present my Poster at workshop on NBER NSF Time Series Conference 2025 at Rutgers University. This poster is based on joint work with Professor Sayar Karmakar and Professor Rangan Gupta.  In addition, my Ph.D. advisor Professor Dimitris Politis gave an invited talk based on our Bootstrap prediction inference of nonlinea autoregressive models.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>My First Academia Job, Assistant Professor at Loyola University Chicago</title>
-    <link href="http://localhost:4000/posts/firstjob/" rel="alternate" type="text/html" title="My First Academia Job, Assistant Professor at Loyola University Chicago" />
-    <published>2025-08-11T00:00:00-05:00</published>
-  
-    <updated>2025-08-11T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/firstjob/</id>
-    <content type="text/html" src="http://localhost:4000/posts/firstjob/" />
-    <author>
-      <name>Kejin Wu</name>
-    </author>
-
-  
-    
-  
-
-  <summary>I am glad to join the Department of Mathematics and Statistics, Loyola University Chicago, as an Assistant Professor in Aug. 2025.    My Research Statement and Teaching Statement at that moment.  Hope I can keep moving forward!</summary>
 
   </entry>
 
