@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://kejinwu.github.io/</id>
   <title>Kejin Wu</title>
   <subtitle></subtitle>
-  <updated>2026-05-31T13:14:38-05:00</updated>
+  <updated>2026-06-26T09:50:36-05:00</updated>
   <author>
     <name>Kejin Wu</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://kejinwu.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://kejinwu.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="https://kejinwu.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 Kejin Wu </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>Invited talk at New England Statistics Symposium (NESS) 2026</title>
-    <link href="http://localhost:4000/posts/NESS2026/" rel="alternate" type="text/html" title="Invited talk at New England Statistics Symposium (NESS) 2026" />
-    <published>2026-05-28T00:00:00-05:00</published>
+    <title>Invited talk at International Symposium on Nonparametric Statistics (ISNPS) 2026</title>
+    <link href="https://kejinwu.github.io/posts/ISNPS/" rel="alternate" type="text/html" title="Invited talk at International Symposium on Nonparametric Statistics (ISNPS) 2026" />
+    <published>2026-06-23T00:00:00-05:00</published>
   
-    <updated>2026-05-28T00:00:00-05:00</updated>
+    <updated>2026-06-23T00:00:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/NESS2026/</id>
-    <content type="text/html" src="http://localhost:4000/posts/NESS2026/" />
+    <id>https://kejinwu.github.io/posts/ISNPS/</id>
+    <content type="text/html" src="https://kejinwu.github.io/posts/ISNPS/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -36,20 +36,64 @@
     
   
 
-  <summary>I am glad to present an Invited Talk entitled Distributional Conformal Prediction for Markov Process at the New England Statistical Society (NESS) 2026.  Thanks for the invitation from Professor Yao Zheng.</summary>
+  <summary>I am glad to present an Invited Talk at the International Symposium on Nonparametric Statistics (ISNPS) 2026, Thessaloniki, Greece.  Thanks for the invitation from Professor Bertail.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Invited talk at Recent Advances in Time Series (RATS) 2026</title>
+    <link href="https://kejinwu.github.io/posts/RATS2026/" rel="alternate" type="text/html" title="Invited talk at Recent Advances in Time Series (RATS) 2026" />
+    <published>2026-06-19T00:00:00-05:00</published>
+  
+    <updated>2026-06-19T00:00:00-05:00</updated>
+  
+    <id>https://kejinwu.github.io/posts/RATS2026/</id>
+    <content type="text/html" src="https://kejinwu.github.io/posts/RATS2026/" />
+    <author>
+      <name>Kejin Wu</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to present an Invited Talk entitled Distributional Conformal Prediction for Markov Process at the Recent Advances in Time Series (RATS) 2026, Larnaca, Cyprus.  Thanks for the invitation and organization by Jens-Peter Kreiss, Efstathios Paparoditis, and Dimitris Politis.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Invited talk at New England Statistics Symposium (NESS) 2026</title>
+    <link href="https://kejinwu.github.io/posts/NESS2026/" rel="alternate" type="text/html" title="Invited talk at New England Statistics Symposium (NESS) 2026" />
+    <published>2026-05-28T00:00:00-05:00</published>
+  
+    <updated>2026-05-28T00:00:00-05:00</updated>
+  
+    <id>https://kejinwu.github.io/posts/NESS2026/</id>
+    <content type="text/html" src="https://kejinwu.github.io/posts/NESS2026/" />
+    <author>
+      <name>Kejin Wu</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to present an Invited Talk entitled Distributional Conformal Prediction for Markov Process at the New England Statistical Society (NESS) 2026, University of Connecticut.  Thanks for the invitation from Professor Yao Zheng.</summary>
 
   </entry>
 
   
   <entry>
     <title>Receive IMS New Researcher Travel Award</title>
-    <link href="http://localhost:4000/posts/IMSNewResearcherTravelAward-copy/" rel="alternate" type="text/html" title="Receive IMS New Researcher Travel Award" />
+    <link href="https://kejinwu.github.io/posts/IMSNewResearcherTravelAward-copy/" rel="alternate" type="text/html" title="Receive IMS New Researcher Travel Award" />
     <published>2026-03-12T00:00:00-05:00</published>
   
     <updated>2026-03-12T00:00:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/IMSNewResearcherTravelAward-copy/</id>
-    <content type="text/html" src="http://localhost:4000/posts/IMSNewResearcherTravelAward-copy/" />
+    <id>https://kejinwu.github.io/posts/IMSNewResearcherTravelAward-copy/</id>
+    <content type="text/html" src="https://kejinwu.github.io/posts/IMSNewResearcherTravelAward-copy/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -65,13 +109,13 @@
   
   <entry>
     <title>Invited to organize a session at EcoSta 2026</title>
-    <link href="http://localhost:4000/posts/InvitationforEcoSta/" rel="alternate" type="text/html" title="Invited to organize a session at EcoSta 2026" />
+    <link href="https://kejinwu.github.io/posts/InvitationforEcoSta/" rel="alternate" type="text/html" title="Invited to organize a session at EcoSta 2026" />
     <published>2026-02-09T00:00:00-06:00</published>
   
     <updated>2026-02-09T00:00:00-06:00</updated>
   
-    <id>http://localhost:4000/posts/InvitationforEcoSta/</id>
-    <content type="text/html" src="http://localhost:4000/posts/InvitationforEcoSta/" />
+    <id>https://kejinwu.github.io/posts/InvitationforEcoSta/</id>
+    <content type="text/html" src="https://kejinwu.github.io/posts/InvitationforEcoSta/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -81,50 +125,6 @@
   
 
   <summary>I am glad to share that I was invited to organize a session at EcoSta 2026.    Thanks for the recommendation from Professor Karmakar.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Contributed talk at conference IMS-ICSDS 2025</title>
-    <link href="http://localhost:4000/posts/ICSDS/" rel="alternate" type="text/html" title="Contributed talk at conference IMS-ICSDS 2025" />
-    <published>2025-12-16T00:00:00-06:00</published>
-  
-    <updated>2025-12-16T00:00:00-06:00</updated>
-  
-    <id>http://localhost:4000/posts/ICSDS/</id>
-    <content type="text/html" src="http://localhost:4000/posts/ICSDS/" />
-    <author>
-      <name>Kejin Wu</name>
-    </author>
-
-  
-    
-  
-
-  <summary>I am glad to present a Talk entitled Deep Limit Model Free Prediction in Regression at the 2025 IMS International Conference on Statistics and Data Science, Seville, Spain.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Co-author invited talk and poster at conference NBER NSF Time Series 2025 </title>
-    <link href="http://localhost:4000/posts/NBERNSF/" rel="alternate" type="text/html" title="Co-author invited talk and poster at conference NBER NSF Time Series 2025 " />
-    <published>2025-09-19T00:00:00-05:00</published>
-  
-    <updated>2025-09-19T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/NBERNSF/</id>
-    <content type="text/html" src="http://localhost:4000/posts/NBERNSF/" />
-    <author>
-      <name>Kejin Wu</name>
-    </author>
-
-  
-    
-  
-
-  <summary>I am glad to present my Poster at workshop on NBER NSF Time Series Conference 2025 at Rutgers University. This poster is based on joint work with Professor Sayar Karmakar and Professor Rangan Gupta.  In addition, my Ph.D. advisor Professor Dimitris Politis gave an invited talk based on our Bootstrap prediction inference of nonlinea autoregressive models.</summary>
 
   </entry>
 
