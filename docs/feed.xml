@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://kejinwu.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>Kejin Wu</title>
   <subtitle></subtitle>
-  <updated>2026-06-26T09:50:36-05:00</updated>
+  <updated>2026-07-16T09:46:23-05:00</updated>
   <author>
     <name>Kejin Wu</name>
-    <uri>https://kejinwu.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://kejinwu.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://kejinwu.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 Kejin Wu </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,36 @@
 
   
   <entry>
+    <title>Paper accepted by Multivariate Behavioral Research</title>
+    <link href="http://localhost:4000/posts/MBRpaper/" rel="alternate" type="text/html" title="Paper accepted by Multivariate Behavioral Research" />
+    <published>2026-07-13T00:00:00-05:00</published>
+  
+    <updated>2026-07-13T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/MBRpaper/</id>
+    <content type="text/html" src="http://localhost:4000/posts/MBRpaper/" />
+    <author>
+      <name>Kejin Wu</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to share that the joint work with Prof. Jacobson and Prof. Ryan Exploratory Continuous-Time Modeling (expct): Extracting Dynamic Features from Irregularly Spaced Time Series has been accepted by Multivariate Behavioral Research.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Invited talk at International Symposium on Nonparametric Statistics (ISNPS) 2026</title>
-    <link href="https://kejinwu.github.io/posts/ISNPS/" rel="alternate" type="text/html" title="Invited talk at International Symposium on Nonparametric Statistics (ISNPS) 2026" />
+    <link href="http://localhost:4000/posts/ISNPS/" rel="alternate" type="text/html" title="Invited talk at International Symposium on Nonparametric Statistics (ISNPS) 2026" />
     <published>2026-06-23T00:00:00-05:00</published>
   
     <updated>2026-06-23T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/ISNPS/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/ISNPS/" />
+    <id>http://localhost:4000/posts/ISNPS/</id>
+    <content type="text/html" src="http://localhost:4000/posts/ISNPS/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -43,13 +65,13 @@
   
   <entry>
     <title>Invited talk at Recent Advances in Time Series (RATS) 2026</title>
-    <link href="https://kejinwu.github.io/posts/RATS2026/" rel="alternate" type="text/html" title="Invited talk at Recent Advances in Time Series (RATS) 2026" />
+    <link href="http://localhost:4000/posts/RATS2026/" rel="alternate" type="text/html" title="Invited talk at Recent Advances in Time Series (RATS) 2026" />
     <published>2026-06-19T00:00:00-05:00</published>
   
     <updated>2026-06-19T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/RATS2026/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/RATS2026/" />
+    <id>http://localhost:4000/posts/RATS2026/</id>
+    <content type="text/html" src="http://localhost:4000/posts/RATS2026/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -65,13 +87,13 @@
   
   <entry>
     <title>Invited talk at New England Statistics Symposium (NESS) 2026</title>
-    <link href="https://kejinwu.github.io/posts/NESS2026/" rel="alternate" type="text/html" title="Invited talk at New England Statistics Symposium (NESS) 2026" />
+    <link href="http://localhost:4000/posts/NESS2026/" rel="alternate" type="text/html" title="Invited talk at New England Statistics Symposium (NESS) 2026" />
     <published>2026-05-28T00:00:00-05:00</published>
   
     <updated>2026-05-28T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/NESS2026/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/NESS2026/" />
+    <id>http://localhost:4000/posts/NESS2026/</id>
+    <content type="text/html" src="http://localhost:4000/posts/NESS2026/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -87,13 +109,13 @@
   
   <entry>
     <title>Receive IMS New Researcher Travel Award</title>
-    <link href="https://kejinwu.github.io/posts/IMSNewResearcherTravelAward-copy/" rel="alternate" type="text/html" title="Receive IMS New Researcher Travel Award" />
+    <link href="http://localhost:4000/posts/IMSNewResearcherTravelAward-copy/" rel="alternate" type="text/html" title="Receive IMS New Researcher Travel Award" />
     <published>2026-03-12T00:00:00-05:00</published>
   
     <updated>2026-03-12T00:00:00-05:00</updated>
   
-    <id>https://kejinwu.github.io/posts/IMSNewResearcherTravelAward-copy/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/IMSNewResearcherTravelAward-copy/" />
+    <id>http://localhost:4000/posts/IMSNewResearcherTravelAward-copy/</id>
+    <content type="text/html" src="http://localhost:4000/posts/IMSNewResearcherTravelAward-copy/" />
     <author>
       <name>Kejin Wu</name>
     </author>
@@ -103,28 +125,6 @@
   
 
   <summary>I am glad to share that I have been selected to receive the Institute of Mathematical Statistics (IMS) New Researcher Travel Award 2026 Link.  Thanks, IMS!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Invited to organize a session at EcoSta 2026</title>
-    <link href="https://kejinwu.github.io/posts/InvitationforEcoSta/" rel="alternate" type="text/html" title="Invited to organize a session at EcoSta 2026" />
-    <published>2026-02-09T00:00:00-06:00</published>
-  
-    <updated>2026-02-09T00:00:00-06:00</updated>
-  
-    <id>https://kejinwu.github.io/posts/InvitationforEcoSta/</id>
-    <content type="text/html" src="https://kejinwu.github.io/posts/InvitationforEcoSta/" />
-    <author>
-      <name>Kejin Wu</name>
-    </author>
-
-  
-    
-  
-
-  <summary>I am glad to share that I was invited to organize a session at EcoSta 2026.    Thanks for the recommendation from Professor Karmakar.</summary>
 
   </entry>
 
